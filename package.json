@@ -1,0 +1,11 @@
+{
+  "name": "centauri-commander",
+  "version": "0.0.1",
+  "description": "cen-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "LamWolf",
+  "license": "ISC"
+}
