@@ -2,10 +2,24 @@
   "name": "centauri-commander",
   "version": "0.0.1",
   "description": "cen-cli",
-  "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "lint": "eslint"
+  },
+  "bin": {
+    "drop": "./bin/drop.js"
   },
   "author": "LamWolf",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "fs-extra": "^8.1.0",
+    "path": "^0.12.7",
+    "tracer": "^0.9.8"
+  }
 }
