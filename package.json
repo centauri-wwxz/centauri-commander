@@ -7,7 +7,7 @@
     "lint": "eslint"
   },
   "bin": {
-    "drop": "./bin/drop.js"
+    "drop": "./bin/drop/drop.js"
   },
   "author": "LamWolf",
   "license": "ISC",
