@@ -1,5 +1,7 @@
 # Centauri-commander
 
+![npm](https://img.shields.io/npm/v/centauri-commander) ![NPM](https://img.shields.io/npm/l/centauri-commander) ![npm](https://img.shields.io/npm/dt/centauri-commander)
+
 Centauri-commander is an personal cli.
 
 Centauri-commander是一个私人的cli工具集。
